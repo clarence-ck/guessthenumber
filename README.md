@@ -7,8 +7,9 @@ game.
 The features of 终极密码 include, enter a name of the dealer, anonymous name is fine, restrict integers to be keyed in from 1 - 100, reduction of avaiable numbers in the range 
 gradually till the correct one is left. The last feature is completely self developed by my own efforts.
 
-终极密码 is often played in variety show in Taiwan. It is a simple yet entertaining game, whereby the person who guess correctly, or the last person left with the chose number
-does a forfeit on the show. Sometimes the host of the show will deliberately change the chosen number to get the person do the forfeit.
+终极密码 is often played in variety show in Taiwan. It is a simple yet entertaining game, whereby the person who guess number correctly, or the last person left with no choice but the chosen number does a forfeit on the show. 
+Sometimes the host of the show will deliberately change the chosen number to get the person to do the forfeit, so no matter what random number it is, the player's guess is the 
+right number! Rigged!
 
 Game is start by chosing one random number from 1-100. The number is only known by the dealer.
 Each player takes turn to guess till one guess it right. The player who guess it right is the joker and does the forfeit. 
