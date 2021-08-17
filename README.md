@@ -1,6 +1,7 @@
 # guessthenumber
 # 终极密码
 https://zh.wikipedia.org/wiki/%E7%B5%82%E6%A5%B5%E5%AF%86%E7%A2%BC
+https://www.youtube.com/watch?v=DwN_6epk6Jo
 
 终极密码 is created through my own self learning in Microsoft Learn Python. Basically took snippets of the code that are useful in the courses, then add in codes to build the 终极密码
 game.
