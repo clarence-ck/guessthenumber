@@ -1,11 +1,16 @@
 # guessthenumber
 # 终极密码
+https://zh.wikipedia.org/wiki/%E7%B5%82%E6%A5%B5%E5%AF%86%E7%A2%BC
 
 终极密码 is created through my own self learning in Microsoft Learn Python. Basically took snippets of the code that are useful in the courses, then add in codes to build the 终极密码
 game.
 
 The features of 终极密码 include, enter a name of the dealer, anonymous name is fine, restrict integers to be keyed in from 1 - 100, reduction of avaiable numbers in the range 
-gradually till the correct one is left. The last feature is completely self developed by my own efforts.
+gradually till the correct one is left. 
+The last feature is completely self developed by my own efforts.
+Python range poses problem because it does not iterate to include the last value. For example if x=range(1,100), list(x) will produce [1,2,3...99]
+To overcome this issue, some trial and error is run to make sure this program does the intended effect of reducing the range gradually, so the numbers available for selection is
+shown after each incorrect guess, the already guessed numbers are left out of upper and lower bounds.
 
 终极密码 is often played in variety show in Taiwan. It is a simple yet entertaining game, whereby the person who guess number correctly, or the last person left with no choice but the chosen number does a forfeit on the show. 
 Sometimes the host of the show will deliberately change the chosen number to get the person to do the forfeit, so no matter what random number it is, the player's guess is the 
@@ -19,4 +24,6 @@ the jackpot and is the joker!
 
  终极密码 2 Players allows two players to register. Same concept but added in another while loop to run the game.
  
- If there are 3 players or more best to use 终极密码. For two players, 终极密码 2 Players.ipynb is the suitable one.
+ If there are 3 players or more best to use 终极密码. 
+ 
+ For two players, 终极密码 2 Players.ipynb is the recommended one.
