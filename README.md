@@ -14,7 +14,7 @@ Python range poses problem because it does not iterate to include the last value
 To overcome this issue, trial and error is run to make sure this program does the intended effect of reducing the range gradually, so the numbers available for selection is
 shown after each incorrect guess, the already guessed numbers are left out of upper and lower bounds.
 
-终极密码 is often played in variety show in Taiwan. It is a simple yet entertaining game, whereby the person who guess number correctly, or the last person left with no choice but only the chosen number, does a forfeit on the show. 
+终极密码 is often played in Taiwan variety show. It is a simple yet entertaining game, whereby the person who guess number correctly, or the last person left with no choice but only the chosen number, does a forfeit on the show. 
 Sometimes the host of the show will deliberately change the chosen number to get the person to do the forfeit, so no matter what random number it is, the player's guess is the 
 right number! Rigged!
 
