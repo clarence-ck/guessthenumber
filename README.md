@@ -17,7 +17,7 @@ shown after each incorrect guess, the already guessed numbers are left out of up
 Sometimes the host of the show will deliberately change the chosen number to get the person to do the forfeit, so no matter what random number it is, the player's guess is the 
 right number! Rigged!
 
-Game is start by chosing one random number from 1-100. The number is only known by the dealer.
+Game starts by chosing one random number from 1-100. The number is only known by the dealer.
 Each player takes turn to guess till one guess it right. The player who guess it right is the joker and does the forfeit. 
 In the instance when two numbers are left, the player in turn still guessed the wrong number, the next player in line strikes
 the jackpot and is the joker!
