@@ -10,7 +10,7 @@ The features of 终极密码 include, enter a name of the dealer, anonymous name
 gradually till the correct one is left or the correct number is guessed way ahead.
 
 The last feature is completely self developed by my own efforts.
-Python range poses problem because it does not iterate to include the last value. For example if x=range(1,100), list(x) will produce [1,2,3...99]
+Python range poses problem because it does not iterate to include the last value. For example if x=range(1,100), list(x) will produce [1,2,3...99].
 To overcome this issue, trial and error is run to make sure this program does the intended effect of reducing the range gradually, so the numbers available for selection is
 shown after each incorrect guess, the already guessed numbers are left out of upper and lower bounds.
 
