@@ -19,7 +19,7 @@ right number! Rigged!
 
 Game starts by chosing one random number from 1-100. The number is only known by the dealer.
 Each player takes turn to guess till one guess it right. The player who guess it right is the joker and does the forfeit. 
-In the instance when two numbers are left, the player in turn still guessed the wrong number, the next player in line strikes
+In the instance when two numbers are left, the player in the current turn still guessed the wrong number, the next player in line strikes
 the jackpot and is the joker!
 
 
