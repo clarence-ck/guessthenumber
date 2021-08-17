@@ -26,6 +26,3 @@ the jackpot and is the joker!
 
  终极密码 2 Players allows two players to register. Same concept but added in another while loop to run the game.
  
- If there are 3 players or more best to use 终极密码. 
- 
- For two players, 终极密码 2 Players.ipynb is the recommended one.
