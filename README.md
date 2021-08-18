@@ -23,6 +23,10 @@ Each player takes turn to guess till one guess it right. The player who guess it
 In the instance when two numbers are left, the player in the current turn still guessed the wrong number, the next player in line strikes
 the jackpot and is the joker!
 
-
- 终极密码 2 Players allows two players to register. Same concept but added in another while loop to run the game.
+终极密码 2 Players allows two players to register. Same concept but added in another while loop to run the game.
+ 
+终极密码 Multiplayer is the latest incremental development to the game. It enables host registration and the setting of the number of players in the game.
+It is truly the effort of me wanting to get over the limitations of having a fixed number of players in the game or the host/dealer playing alone.
+The user can now choose who the host is and how many players are participating. It sorts of resembles the situation in the youtube video. Use it for 
+number guessing and have fun!
  
