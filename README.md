@@ -27,6 +27,6 @@ the jackpot and is the joker!
  
 终极密码 Multiplayer is the latest incremental development to the game. It enables host registration and the setting of the number of players in the game.
 It is truly the effort of me wanting to get over the limitations of having a fixed number of players in the game or the host/dealer playing alone.
-The user can now choose who the host is and how many players are participating. It sorts of resembles the situation in the youtube video. Use it for 
+The user can now choose who the host is and how many players are participating. It sort of resembles the situation in the youtube video. Use it for 
 number guessing and have fun!
  
