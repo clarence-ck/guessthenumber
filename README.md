@@ -27,7 +27,8 @@ the jackpot and is the joker!
  
 终极密码 Multiplayer is the latest incremental development to the game. It enables host registration and the setting of the number of players in the game.
 It is truly the effort of me wanting to get over the limitations of having a fixed number of players in the game or the host/dealer playing alone.
-The user can now choose who the host is and how many players are participating. It sort of resembles the situation in the youtube video. Use it for 
-number guessing and have fun!
+The user can now choose who the host is and how many players are participating. It sort of resembles the situation in the youtube video. 
  
 终极密码 MultiplayerNext added on the feature of calling out the next player after the last incorrect guess. Imported itertools.cycle to allow printing of the joker left with jackpot number!
+
+Use it for number guessing and have fun!
