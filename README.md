@@ -30,4 +30,4 @@ It is truly the effort of me wanting to get over the limitations of having a fix
 The user can now choose who the host is and how many players are participating. It sort of resembles the situation in the youtube video. Use it for 
 number guessing and have fun!
  
-终极密码 MultiplayerNext is the newest increment development. Added in itertools.cycle to allow printing of the joker after the last available guess is still incorrect!
+终极密码 MultiplayerNext added on the feature of calling out the next player after the last incorrect guess. Imported itertools.cycle to allow printing of the joker left with jackpot number!
