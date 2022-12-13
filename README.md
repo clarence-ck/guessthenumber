@@ -5,9 +5,7 @@ https://www.youtube.com/watch?v=DwN_6epk6Jo
 
 终极密码 is created through my own self learning in Microsoft Learn Python. Basically took snippets of the code that are useful in the courses, then add in codes to build the 终极密码 game.
 
-The features of 终极密码 include, enter a name of the dealer, anonymous name is fine; enter the name for any number of players; players are restricted to integers to be keyed in from 1 - 100; 
-
-reduction of available numbers in the range gradually till the correct one is left. 
+The features of 终极密码 include, enter a name of the dealer, anonymous name is fine; enter the name for any number of players; players are restricted to integers to be keyed in from 1 - 100; reduction of available numbers in the range gradually till the correct one is left. 
 
 The last feature developed on gradually reducing the range of of available number is completely self developed by my own efforts.
 
